@@ -12,6 +12,6 @@ class Course
   end
   
   def self.reser_all
-    
+    @@all.clear
   end
 end
