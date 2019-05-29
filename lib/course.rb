@@ -11,7 +11,7 @@ class Course
     @@all
   end
   
-  def self.reser_all
+  def self.reset_all
     @@all.clear
   end
 end
